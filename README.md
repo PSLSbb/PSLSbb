@@ -6,6 +6,9 @@
   I'm Kaleab,a software engineer interested in building useful things, exploring technology, and understanding how things work.
   <br/>
   This is my <b>academic & experimental space</b>  coursework, experiments, and things I'm learning along the way.
+<!-- 
+This is a 
+multi-line comment 
 </p><br/><table align="center" width="100%">
 <tr>
 <td align="center" width="100%"><h3>↗ &nbsp; My Main Developer Profile</h3><a href="https://github.com/novel-byte">
@@ -19,17 +22,15 @@
   <img src="https://img.shields.io/badge/VISIT%20PROFILE-FFFFFF?style=for-the-badge&logo=github&logoColor=161B22"/>
 </a></td>
 </tr>
-</table>
+</table> 
+-->
 
 ⌗   Contribution activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=novel-byte&bg_color=0D1117&color=9DA7B3&line=8B949E&point=E6EDF3&area=true&hide_border=true&custom_title=Development%20Activity" width="100%" alt="GitHub activity graph"/>
-</p>🏆   Achievements
+</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=novel-byte&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="100%" alt="GitHub trophies"/>
-</p>---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PSLSbb&style=flat-square&color=30363D&label=PROFILE+VIEWS" alt="Profile views"/>
